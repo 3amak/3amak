@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @3amak
 - 👀 I’m interested in Mobile app development
-- 🌱 I’m currently learning CS banchelor's degree
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CS banchelor's degre
 - 📫 How to reach me mohammadmahdishokor@gmail.com
 
 <!---
